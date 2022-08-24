@@ -1,0 +1,4 @@
+SRC += muse.c
+KEY_OVERRIDE_ENABLE = yes
+KEY_LOCK_ENAKLE = yes
+CAPS_WORD_ENABLE = yes
